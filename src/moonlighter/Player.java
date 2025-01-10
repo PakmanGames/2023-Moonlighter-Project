@@ -1,4 +1,4 @@
-/* Andy Pak & Mustafa Merchant
+/*
  * Culminating Performance Task
  * ICS4U1
  * Monday, June 12th, 2023
